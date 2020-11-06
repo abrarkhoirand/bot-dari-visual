@@ -1,0 +1,17 @@
+{
+  "name": "hvb",
+  "version": "1.0.0",
+  "description": "ini bot buatan abrar",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "ping": "^0.3.0",
+    "pretty-ms": "^7.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrar Khoirand",
+  "license": "ISC"
+}
